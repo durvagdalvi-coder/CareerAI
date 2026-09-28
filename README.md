@@ -1,78 +1,17 @@
-CareerAI/
+## 🌐 Live Demo
 
-├── README.md
+Try CareerAI:
+https://careeraicapstone.streamlit.app/
 
-├── 01_Project_Documentation
-│   ├── Project_Report.docx
-│   ├── Architecture_Document.docx
-│   ├── Demo_Explanation.docx
-│   └── Project_Handover.docx
+## Screenshots
 
+### Dashboard
 
-├── 02_Source_Code
-│   ├── app.py
-│   ├── text_extractor.py
-│   ├── nlp_engine.py
-│   ├── skill_engine.py
-│   ├── matcher.py
-│   ├── role_detector.py
-│   ├── recommendations.py
-│   └── report_generator.py
+![Dashboard](screenshots/dashboard.png)
 
+### ATS Analysis
 
-├── 03_Demo_Run
-│   ├── Demo_Resume.pdf
-│   ├── Demo_Job_Description.pdf
-│   └── CareerAI_Report.txt
-
-
-├── 04_Screenshots
-│   ├── Dashboard.png
-│   ├── ATS_Result.png
-│   ├── Skill_Analysis.png
-│   └── Report_Output.png
-
-
-└── requirements.txt
-
-Now the next important step is README finalization.
-
-The README is the first thing someone sees on GitHub. It should include:
-
-Project overview
-Features
-Demo workflow
-Architecture
-Tech stack
-Installation steps
-Project structure
-Screenshots
-Future improvements
-
-After README, we do:
-
-Clean source folder
-Remove unnecessary files (venv, cache files)
-Create GitHub repository
-Push project
-Deploy on Streamlit Cloud
-
-So next step:
-
-Update README.md to the final CareerAI version. 🚀
-
-ok lets go
-
-Great. 🚀 Let's finalize the README.md.
-
-This will be the GitHub-facing document, so it should be:
-
-Clear for recruiters/reviewers
-Accurate to the actual implementation
-Not overclaiming AI capabilities
-Easy for someone else to run
-
-Replace your entire README.md with this:
+![ATS](screenshots/ats.png)
 
 # 🚀 CareerAI
 
