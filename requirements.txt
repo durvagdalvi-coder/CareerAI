@@ -1,0 +1,6 @@
+streamlit
+pypdf
+python-docx
+spacy
+nltk
+streamlit-extras

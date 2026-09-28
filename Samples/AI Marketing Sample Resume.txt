@@ -1,0 +1,77 @@
+Here is a comprehensive sample resume tailored for a modern, performance-driven marketing professional.
+
+Ashish Ahuja
+Senior Growth & Digital Marketing Manager
+
+Mumbai, India | +91 98765 43210 | ashish.ahuja@email.com | linkedin.com/in/ashishahuja-mktg | ashishahuja.com
+
+Professional Summary
+Results-driven Senior Digital Marketer with 6+ years of experience spearheading multi-channel acquisition, brand growth, and performance marketing strategies across B2B SaaS and D2C e-commerce. Proven track record of scaling monthly recurring revenue (MRR), reducing Customer Acquisition Cost (CAC) by up to 35%, and managing annual ad budgets exceeding $1.2M. Adept at blending creative storytelling with deep analytical rigor, marketing automation, and conversion rate optimization (CRO).
+
+Core Competencies
+Performance Marketing: Paid Search (Google Ads), Paid Social (Meta, LinkedIn, TikTok), Programmatic, Retargeting
+
+Organic Growth: SEO & SEM, Content Strategy, Inbound Funnels, Influencer Partnerships
+
+Lifecycle & Retention: Email Marketing, Lead Nurturing, Customer Segmentation, Churn Reduction
+
+Analytics & CRO: GA4, Mixpanel, Looker Studio, A/B Testing, Multi-Touch Attribution, Heatmapping
+
+Marketing Tech & Tools: HubSpot, Klaviyo, Salesforce, Zapier, Webflow, SEMrush, Figma
+
+Professional Experience
+Senior Performance & Growth Marketing Manager
+Nexus Digital Solutions | Mumbai, India
+
+July 2023 – Present
+
+Formulated and executed full-funnel acquisition strategies across Google, Meta, and LinkedIn Ads, managing an annual media spend of $850K+ while maintaining an average ROAS of 3.8x.
+
+Scaled organic search traffic by 140% in 12 months by leading comprehensive technical SEO audits, high-intent keyword clustering, and content production workflows.
+
+Designed automated lifecycle email nurture flows in Klaviyo, increasing lead-to-MQL conversion rates by 28% and driving $320K in incremental pipeline revenue.
+
+Collaborated with product and engineering teams to deploy A/B landing page experiments via VWO, boosting site-wide demo request conversions by 22%.
+
+Digital Marketing Specialist
+Aura Consumer Brands | Mumbai, India
+
+August 2020 – June 2023
+
+Managed end-to-end performance marketing campaigns across Meta Ads Manager and Google Shopping for a portfolio of 4 D2C lifestyle brands.
+
+Reduced overall blended Customer Acquisition Cost (CAC) by 32% through rigorous audience segment refinement, creative testing, and negative keyword optimization.
+
+Managed a roster of 40+ micro and macro-influencers, delivering 3.2M organic impressions and driving 18% of quarterly direct-to-site sales.
+
+Built automated performance dashboards in Looker Studio and Supermetrics to provide executive leadership with real-time visibility into CAC, LTV, and ROAS.
+
+Marketing Associate
+Pinnacle Media Labs | Pune, India
+
+June 2018 – July 2020
+
+Authored SEO-optimized blog posts, case studies, and whitepapers that generated over 50,000 monthly unique page views.
+
+Spearheaded weekly newsletter campaigns for a subscriber base of 65,000+, achieving consistent open rates above 26% (industry benchmark: 18%).
+
+Monitored paid ad campaign budgets, executed daily bid adjustments, and generated weekly pacing reports.
+
+Education
+Master of Business Administration (MBA) – Marketing
+
+Symbiosis Institute of Business Management (SIBM), Pune
+
+Graduated: May 2018
+
+Bachelor of Commerce (B.Com) – Advertising & Media
+
+University of Mumbai, Mumbai
+
+Graduated: May 2016
+
+Certifications
+Google Certified: Google Ads Search, Display & Video 360, Google Analytics (GA4)
+
+HubSpot Academy: Inbound Marketing Certification, Email Marketing Certified
+Reforge: Growth Series & Retention Deep Dive
