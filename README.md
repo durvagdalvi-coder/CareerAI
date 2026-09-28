@@ -7,11 +7,11 @@ https://careeraicapstone.streamlit.app/
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/App Interface.png)
 
 ### ATS Analysis
 
-![ATS](screenshots/ats.png)
+![ATS](Screenshots/App Interface With Skills.png)
 
 # 🚀 CareerAI
 
